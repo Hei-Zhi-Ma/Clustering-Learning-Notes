@@ -6,6 +6,7 @@
 - ✅ DBSCAN 聚类
 - ✅ 层次聚类 (Hierarchical Clustering)
 - ✅ MeanShift 聚类
+- ✅ 谱聚类
 - 📚 内含超详细中文注释代码
 - 🧠 注重理解而不是套代码
 
@@ -28,6 +29,7 @@
 ┃ ┣ dbscan.py
 ┃ ┣ hierarchical.py
 ┃ ┗ meanshift.py
+┃ ┗ spectral_clustering.py
 ┣ README.md
 
 
